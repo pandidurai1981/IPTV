@@ -10,30 +10,15 @@ rtmp://qcloudmedia.com/live/ukdeepam
 
 #EXTINF:-1,INDIA:EET TV Canada @ Ceylon Tamil Media ONLINE
 rtmp://37.59.17.222:1935/live_ca/eettv
-#EXTINF:-1,INDIA:ETV Marathi
-http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
-#EXTINF:-1,INDIA:F ***HasBahCa IPTV***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,INDIA:G ***HasBahCa IPTV***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,INDIA:H ***HasBahCa IPTV***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,INDIA:HEMA TV mms
-mms://77.238.209.50:1234
+
+
+
 #EXTINF:-1,INDIA:HIRU TV @ Ceylon Tamil Media ONLINE
 http://cdncities.com/8012/8012/HasBahCa.m3u8
-#EXTINF:-1,INDIA:HMTV Telugu
-http://yupptvrtmp-lh.akamaihd.net/i/blore1_hmtv5@105695/master.m3u8
-#EXTINF:-1,INDIA:I ***HasBahCa IPTV***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,INDIA:IBN LookMat
-http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
+
 #EXTINF:-1,INDIA:Imayam TV @ Ceylon Tamil Media ONLINE
 rtmp://cp.akamain.info:1935/imayamtv/imayamtv
-#EXTINF:-1,INDIA:India News
-http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
-#EXTINF:-1,INDIA:India TV
-http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+
 
 #EXTINF:-1,INDIA:ITN Tv @ Ceylon Tamil Media ONLINE
 http://cdncities.com/itndvr2/itndvr2/HasBahCa.m3u8
