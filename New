@@ -1,0 +1,10 @@
+EXTINF:-1,Tamil lotusnews
+rtmp://$OPT:rtmp-raw=rtmp://live.wmncdn.net/lotus/ playpath=25526e8cfa035fc30910e40b3f2e4348.sdp swfUrl=http://player-emea-uk.webmobilive.com/player/liveplayer.swf live=1 pageUrl=http://livetvchannelsfree.com/lotusnews.html
+#EXTINF:-1,Tamil vasanthamtv
+rtmp://$OPT:rtmp-raw=rtmp://mediacp2.comcities.com:1935/itn-vasantham playpath=itn-vasantham swfUrl=http://cdn.itnlanka.com/vasanthamtv.swf live=1 pageUrl=http://livetvchannelsfree.com/vasanthamtv.html
+#EXTINF:-1,TRANS TV
+rtsp://cdn.mivo.tv/mivotvjkt/transtv2
+#EXTINF:-1,TV ONE
+rtsp://cdn.mivo.tv/mivotvjkt/tvone2
+#EXTINF:-1,Vasanth TV(Tamil)
+http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed02?e=0%26h=a9be0836bc39f96d0a9a958a659dfc1d%26bgsecuredir=1
