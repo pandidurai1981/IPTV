@@ -1,45 +1,13 @@
-#EXTINF:-1,INDIA:***HasBahCa IPTV HINDISTAN-TAMIL INDIA-TAMIL***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,INDIA:10TV Telugu
-http://yupptvrtmp-lh.akamaihd.net/i/blore1_10tv13@22968/master.m3u8
-#EXTINF:-1,INDIA:6TV Telangana Telugu
-http://yupptvrtmp-lh.akamaihd.net/i/nwk10_21@82089/master.m3u8
-#EXTINF:-1,INDIA:6TV Telugu
-http://yupptvrtmp-lh.akamaihd.net/i/mbr3_6tv@180553/master.m3u8
-#EXTINF:-1,INDIA:A ***HasBahCa IPTV***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,INDIA:Amazing Facts TV
-http://bglive-w.bitgravity.com/amazingfacts/live/feed01
-#EXTINF:-1,INDIA:Asianet News Malayalam
-http://yupptvrtmp-lh.akamaihd.net/i/blore_5@35278/master.m3u8
+
 #EXTINF:-1,INDIA:Athavan Tv @ Ceylon Tamil Media ONLINE
 http://livestream.5centscdn.com/athavantvvxtv/347697d21cd084a1796ce3ca18943611.sdp/HasBahCa.m3u8
-#EXTINF:-1,INDIA:Atn bangla uk
-http://109.123.70.24/pub1/mp4:atnbanglauk/playlist.m3u8
-#EXTINF:-1,INDIA:B ***HasBahCa IPTV***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,INDIA:BOLLYWOOD HUNGAMA rtsp
-rtsp://46.249.213.87/broadcast/bollywoodhungama-tablet.3gp
-#EXTINF:-1,INDIA:C ***HasBahCa IPTV***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,INDIA:Cartoon Network
-http://188.227.86.4:4022/udp/239.77.0.77:1234
+#EXTIN
 #EXTINF:-1,INDIA:Channel UFX @ Ceylon Tamil Media ONLINE
 http://live.wmncdn.net/ufx/378846f78998168446c173d7055d2653.sdp/HasBahCa.m3u8
-#EXTINF:-1,INDIA:D ***HasBahCa IPTV***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,INDIA:DD News
-http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddnewslive.m3u8
-#EXTINF:-1,INDIA:DD Punjabi
-http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddpunjabi.m3u8
-#EXTINF:-1,INDIA:DDN News
-http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddnewslive/ddnewslive1.m3u8
+
 #EXTINF:-1,INDIA:DEEPAM TV @ Ceylon Tamil Media ONLINE
 rtmp://qcloudmedia.com/live/ukdeepam
-#EXTINF:-1,INDIA:Dekho TV
-http://54.243.231.64:1935/live/dekhotv.mp4/HasBahCa.m3u8
-#EXTINF:-1,INDIA:E ***HasBahCa IPTV***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+
 #EXTINF:-1,INDIA:EET TV Canada @ Ceylon Tamil Media ONLINE
 rtmp://37.59.17.222:1935/live_ca/eettv
 #EXTINF:-1,INDIA:ETV Marathi
@@ -66,63 +34,21 @@ rtmp://cp.akamain.info:1935/imayamtv/imayamtv
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
 #EXTINF:-1,INDIA:India TV
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
-#EXTINF:-1,INDIA:Indiavision TV Malayalam
-http://yupptvrtmp-lh.akamaihd.net/i/blore1_indiavision9@108336/master.m3u8
-#EXTINF:-1,INDIA:iNews Telugu
-http://yupptvrtmp-lh.akamaihd.net/i/blore1_inews11@116773/master.m3u8
+
 #EXTINF:-1,INDIA:ITN Tv @ Ceylon Tamil Media ONLINE
 http://cdncities.com/itndvr2/itndvr2/HasBahCa.m3u8
 #EXTINF:-1,INDIA:JIL JIL TV @ Ceylon Tamil Media ONLINE
 rtmp://emedias.com/jiljiltv/live1
-#EXTINF:-1,INDIA:JOJ
-http://88.212.10.27:81/streams/joj.m3u8
-#EXTINF:-1,INDIA:K ***HasBahCa IPTV***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+
+
 #EXTINF:-1,INDIA:KRISHNA TV @ Ceylon Tamil Media ONLINE
 rtmp://krishnatv.livewebcast.in/krishnatv/krishnatv.stream
-#EXTINF:-1,INDIA:L ***HasBahCa IPTV***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,INDIA:M ***HasBahCa IPTV***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
 #EXTINF:-1,INDIA:Madha Tv @ Ceylon Tamil Media ONLINE
 rtmp://madhatv.cherritech.us/madhatv/_definst_/mp4:myStream
-#EXTINF:-1,INDIA:MH1 News
-http://80.243.182.106:8080/mh1/mh1news/index.m3u8
-#EXTINF:-1,INDIA:N ***HasBahCa IPTV***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,INDIA:ND TV
-http://bglive-a.bitgravity.com/ndtv/247hi/live/native
-#EXTINF:-1,INDIA:NDTV 24×7
-http://bglive-a.bitgravity.com/ndtv/247lo/live/native
-#EXTINF:-1,INDIA:NDTV 24x7
-http://bglive-a.bitgravity.com/ndtv/247lo/live/native
-#EXTINF:-1,INDIA:NDTV India
-http://bglive-a.bitgravity.com/ndtv/indlo/live/native
-#EXTINF:-1,INDIA:NDTV Profit
-http://bglive-a.bitgravity.com/ndtv/prolo/live/native
-#EXTINF:-1,INDIA:News Nation
-http://54.255.176.172:1935/live/smil:mystream.smil/HasBahCa.m3u8
-#EXTINF:-1,INDIA:News9 Kannada
-http://yupptvrtmp-lh.akamaihd.net/i/blore2_news938@135291/master.m3u8
-#EXTINF:-1,INDIA:NTV EU
-http://109.123.70.24/pub1/mp4:ntveurope/playlist.m3u8
-#EXTINF:-1,INDIA:O ***HasBahCa IPTV***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
+
 #EXTINF:-1,INDIA:Ohm Tv @ Ceylon Tamil Media ONLINE
 http://livestream.5centscdn.com/ohmtvvxtv/bfb40efd0d961d175d0f38097fb6072f.sdp/HasBahCa.m3u8
-#EXTINF:-1,INDIA:OM CVR Telugu
-http://yupptvrtmp-lh.akamaihd.net/i/mbr4_cvrom@180554/master.m3u8
-#EXTINF:-1,INDIA:P ***HasBahCa IPTV***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,INDIA:PLUS
-http://88.212.10.27:81/streams/jojplus.m3u8
+
 #EXTINF:-1,INDIA:Puthiya Thalaimurai @ Ceylon Tamil Media ONLINE
 http://dzamqgwxt2cln.cloudfront.net/httporg/pttv/HasBahCa.m3u8
-#EXTINF:-1,INDIA:R ***HasBahCa IPTV***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,INDIA:S ***HasBahCa IPTV***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,INDIA:Samay Aalami Hindi
-http://yupptvrtmp-lh.akamaihd.net/i/blore1_saharaalami20@102253/master.m3u8
-#EXTINF:-1,INDIA:Samay Bihar Hindi
-http://yupptvrtmp-lh.akamaihd.net/i/blore1_saharabihar19@37803/master.m3u8
+
